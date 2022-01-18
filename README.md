@@ -22,7 +22,7 @@ pod 'FHWCDB'
 
 ## Author
 
-kyleruan, ruankai@kuaishou.com
+kyleruan, ruankai@163.com
 
 ## License
 
