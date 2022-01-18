@@ -1,0 +1,6 @@
+framework module FHWCDB {
+  umbrella header "FHWCDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
